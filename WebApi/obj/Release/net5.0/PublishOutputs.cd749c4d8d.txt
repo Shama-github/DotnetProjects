@@ -1,0 +1,7 @@
+C:\DotnetCognizant\WebApi\obj\Release\net5.0\PubTmp\Out\WebApi.exe
+C:\DotnetCognizant\WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\DotnetCognizant\WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\DotnetCognizant\WebApi\obj\Release\net5.0\PubTmp\Out\WebApi.dll
+C:\DotnetCognizant\WebApi\obj\Release\net5.0\PubTmp\Out\WebApi.deps.json
+C:\DotnetCognizant\WebApi\obj\Release\net5.0\PubTmp\Out\WebApi.runtimeconfig.json
+C:\DotnetCognizant\WebApi\obj\Release\net5.0\PubTmp\Out\WebApi.pdb

@@ -1,0 +1,7 @@
+C:\DotnetCognizant\ContainerizedApi\obj\Docker\publish\ContainerizedApi.exe
+C:\DotnetCognizant\ContainerizedApi\obj\Docker\publish\appsettings.Development.json
+C:\DotnetCognizant\ContainerizedApi\obj\Docker\publish\appsettings.json
+C:\DotnetCognizant\ContainerizedApi\obj\Docker\publish\ContainerizedApi.dll
+C:\DotnetCognizant\ContainerizedApi\obj\Docker\publish\ContainerizedApi.deps.json
+C:\DotnetCognizant\ContainerizedApi\obj\Docker\publish\ContainerizedApi.runtimeconfig.json
+C:\DotnetCognizant\ContainerizedApi\obj\Docker\publish\ContainerizedApi.pdb

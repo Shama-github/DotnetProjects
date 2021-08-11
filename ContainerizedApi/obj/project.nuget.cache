@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fumj/GkWSS3t9j/h5TI5Qf7TwqC/CmHpIVvLUNHRiD9+R+xokvDymVPQyOHm91t/uIW7i2BnH80W9OWgff22Aw==",
+  "success": true,
+  "projectFilePath": "C:\\DotnetCognizant\\ContainerizedApi\\ContainerizedApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shama\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

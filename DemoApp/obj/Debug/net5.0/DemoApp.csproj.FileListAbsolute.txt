@@ -1,0 +1,16 @@
+C:\DotnetCognizant\DemoApp\bin\Debug\net5.0\DemoApp.exe
+C:\DotnetCognizant\DemoApp\bin\Debug\net5.0\DemoApp.deps.json
+C:\DotnetCognizant\DemoApp\bin\Debug\net5.0\DemoApp.runtimeconfig.json
+C:\DotnetCognizant\DemoApp\bin\Debug\net5.0\DemoApp.runtimeconfig.dev.json
+C:\DotnetCognizant\DemoApp\bin\Debug\net5.0\DemoApp.dll
+C:\DotnetCognizant\DemoApp\bin\Debug\net5.0\ref\DemoApp.dll
+C:\DotnetCognizant\DemoApp\bin\Debug\net5.0\DemoApp.pdb
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.csproj.AssemblyReference.cache
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.AssemblyInfoInputs.cache
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.AssemblyInfo.cs
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.dll
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\ref\DemoApp.dll
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.pdb
+C:\DotnetCognizant\DemoApp\obj\Debug\net5.0\DemoApp.genruntimeconfig.cache
